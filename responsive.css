@@ -1,0 +1,6 @@
+@media (max-width: 700px) {
+    
+    .menu-cabecalho ul {
+        display: none;
+    }
+}
